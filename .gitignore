@@ -1,0 +1,13 @@
+
+### new jekyll template
+# idea project ignore
+.idea
+
+# jekyll project ignore
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+
+
