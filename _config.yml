@@ -7,9 +7,9 @@ url: ""
 github_username: mrzhqiang
 
 markdown: kramdown
-
-theme: jekyll-theme-cayman
-
+# If you need local preview, just uncomment the line
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
