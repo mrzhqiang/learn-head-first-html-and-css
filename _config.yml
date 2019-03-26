@@ -1,7 +1,7 @@
-title: Learn <head first html and css>
+title: 学习总结——《Head First HTML 与 CSS》
 email: qiang.zhang0314@gmail.com
 description: >-
-  这是对《Head First HTML 与 CSS》一书的学习总结。
+  这是我的个人学习总结，是打造开发技术栈的基础，也是知识的沉淀与归纳。
 baseurl: "/learn-head-first-html-and-css"
 url: ""
 github_username: mrzhqiang
@@ -12,6 +12,18 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 search_enabled: true
 

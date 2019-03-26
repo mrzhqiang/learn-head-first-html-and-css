@@ -14,19 +14,19 @@
 - 安装 [开发环境][4]
 - 安装 [Jekyll][1]
 ```bash
-$ sudo gem install jekyll bundler
+$ gem install jekyll bundler
 ```
 - 安装主题
 ```bash
-$ sudo gem install just-the-docs
+$ gem install just-the-docs
 ```
 - 开启本地预览
 ```bash
-$ sudo bundle exec jekyll serve
+$ bundle exec jekyll serve
 ```
 - 打开浏览器并访问 [http://localhost:4000](http://localhost:4000)
 
-**注意：如果本地预览无效，请先打开 `_config.yml` 第 28 行的注释，再执行以上操作。**
+**注意：如果本地预览无效，请先打开 `_config.yml` 的以下注释，再执行以上操作。**
 ```yaml
 # If you need local preview, just uncomment the line
 #theme: just-the-docs
