@@ -1,10 +1,16 @@
 ---
 layout: default
-title: 读书笔记 | 《深入浅出 HTML 和 CSS》
+title: 前言
 nav_order: 0
 permalink: /
 ---
 
 
-# Learn 《Head First HTML and CSS》
-对《Head First HTML 与 CSS》一书的学习总结。
+# 前言
+这里是对《Head First HTML 与 CSS》一书的学习总结。
+
+我是一个半道自学编程的男孩，喜欢计算机，热爱代码，因此收集了很多令人新奇的技术书籍，想借此打造一个全栈技术链。
+
+然而不幸的是，时间有限，代码的世界在不断飞速发展，虽然我有信心跟上变迁，但生活总是劝我不要执着。为了向生活证明什么，我需要建造这个仓库，用来记录我的努力。
+
+加油吧！少年。
