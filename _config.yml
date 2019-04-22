@@ -29,3 +29,4 @@ plugins:
 aux_links:
   "在 GitHub 上查看":
     - "//github.com/mrzhqiang/learn-head-first-html-and-css"
+theme: jekyll-theme-cayman
