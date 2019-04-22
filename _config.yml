@@ -13,36 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Web 学习总结
+title: 《Head First HTML and CSS》 学习笔记
 email: qiang.zhang0314@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  这是我的个人学习总结，是打造开发技术栈的基础，也是知识的沉淀与归纳。
+  这是我的个人学习笔记系列之一，我希望打造一个全栈技术体系，将热爱的计算机知识归纳和沉淀。
 baseurl: "/learn-head-first-html-and-css"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mrzhqiang
 
-# Build settings
-markdown: kramdown
 # If you need local preview, just uncomment the line
-#theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Enable or disable the site search
-search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:

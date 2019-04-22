@@ -7,7 +7,7 @@ permalink: /
 
 
 # 前言
-这里是对 《Head First HTML 与 CSS》 一书的学习总结。
+这是 《Head First HTML 与 CSS》 一书的学习笔记。
 
 我喜欢计算机，热爱代码，因此收集了很多令人新奇的技术书籍，想借此打造一个全栈技术链。
 
